@@ -1,0 +1,1 @@
+This is a simple geography quiz Android application. This dummy application is a homework of Android Development Skills subject. A weakness of this application is the application is only a front end application without any databases and the quiz questions are hard-coded.
