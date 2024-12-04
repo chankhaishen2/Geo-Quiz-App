@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
             new Question(R.string.question_mideast, false),
             new Question(R.string.question_africa, false),
             new Question(R.string.question_americas, true),
-            new Question(R.string.question_asia, true)
+            new Question(R.string.question_asia, true),
+            new Question(R.string.question_text, false)
     };
     private int mCurrentIndex = 0;
     private Boolean mIsCheater;
